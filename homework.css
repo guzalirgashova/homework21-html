@@ -1,0 +1,44 @@
+body {
+  font-famly: Arial, sans-serif;
+  background-colr: #f0f0f0;
+  margin 0;
+  paddin: 0;
+}
+
+.header {
+  background-color: #333;
+  color white;
+  text-align: center
+  padding: 20px;
+}
+
+.navigation ul {
+  list-style-type: none;
+  background-color: #444
+  overflow: hidden;
+}
+
+.navigation li {
+  float left;
+  margin-right: 10px;
+}
+
+.navigation a {
+  color: #fff;
+  text-decoration none;
+  display: block;
+  padding: 14px 16px;
+}
+
+.main {
+  margin: 20px
+  padding 10px;
+  background-color: #fff;
+}
+
+.footer {
+  background-color: #222;
+  color: #eee;
+  text-align center;
+  padding: 15px
+}
